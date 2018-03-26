@@ -1,0 +1,5 @@
+com\doj\web\AccountRepository.class
+com\doj\web\AccountController.class
+com\doj\web\RemoteAccountRepository.class
+com\doj\web\Account.class
+com\doj\web\WebclientMicroserviceServerApplication.class
